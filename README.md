@@ -7,7 +7,10 @@
 ## **NeurIPS 2025**
 ![teaser](fig/teaser.png)
 
-[Hyunjin Kim](https://kormachine.github.io)<sup>*1</sup>, &nbsp; [Kunho Kim](https://https://soulmates2.github.io/)<sup>*2</sup>, &nbsp; [Adam Lee](https://scholar.google.com/citations?user=uVYIIp0AAAAJ&hl=en)<sup>3</sup>, &nbsp; [Wonkwang Lee](https://1konny.github.io/whoami/)<sup>1,4</sup> (\* equal contribution)
+[Hyunjin Kim](https://kormachine.github.io)<sup>*1</sup>, &nbsp; 
+[Kunho Kim](https://soulmates2.github.io/)<sup>*2</sup>, &nbsp; 
+[Adam Lee](https://scholar.google.com/citations?user=uVYIIp0AAAAJ&hl=en)<sup>3</sup>, &nbsp; 
+[Wonkwang Lee](https://1konny.github.io/whoami/)<sup>1,4</sup> (\* equal contribution)
 
 <sup>1</sup>KRAFTON Inc., &nbsp; <sup>2</sup>NC AI, &nbsp; <sup>3</sup>UC Berkeley, &nbsp; <sup>4</sup>SNU
 
