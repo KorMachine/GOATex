@@ -12,7 +12,7 @@
 [Adam Lee](https://scholar.google.com/citations?user=uVYIIp0AAAAJ&hl=en)<sup>3</sup>, &nbsp; 
 [Wonkwang Lee](https://1konny.github.io/whoami/)<sup>1,4</sup> (\* equal contribution)
 
-<sup>1</sup>KRAFTON Inc., &nbsp; <sup>2</sup>NC AI, &nbsp; <sup>3</sup>UC Berkeley, &nbsp; <sup>4</sup>SNU
+<sup>1</sup>KRAFTON AI, &nbsp; <sup>2</sup>NC AI, &nbsp; <sup>3</sup>UC Berkeley, &nbsp; <sup>4</sup>SNU
 
 <br>
 
